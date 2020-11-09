@@ -1,0 +1,8 @@
+|Ejercicio2With
+A => ~NO_FANOUT~
+B => ~NO_FANOUT~
+C => Mux0.IN4
+D => Mux0.IN5
+F <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+
